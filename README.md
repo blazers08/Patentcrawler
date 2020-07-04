@@ -1,1 +1,1 @@
-A google patent crawler using scrapy
+A patent crawler using scrapy to crawl from USPTO
